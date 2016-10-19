@@ -1,0 +1,5 @@
+hashmap: it is thread safe
+hashmap: good to use for small and large data always preferabble
+
+treemap: not thread safe
+treemap: not used for large transactions
