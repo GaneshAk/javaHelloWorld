@@ -1,12 +1,11 @@
 package uploadTest;
 
-public class Welcome {
+public class WelcomeA {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Hello World");
-		System.out.println("New Added Hello World");
+		System.out.println("This is Second Application");
 
 	}
 
